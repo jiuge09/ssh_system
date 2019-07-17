@@ -4,8 +4,8 @@
 <head lang="en">
     <meta charset="UTF-8">
     <title>水电费管理系统</title>
-    <link type="text/css" rel="stylesheet" href="../../resources/static/css/style.css"/>
-    <link type="text/css" rel="stylesheet" href="../../resources/static/css/public.css"/>
+    <link type="text/css" rel="stylesheet" href="/css/style.css"/>
+    <link type="text/css" rel="stylesheet" href="/css/public.css"/>
 </head>
 <body>
 <!--头部-->
