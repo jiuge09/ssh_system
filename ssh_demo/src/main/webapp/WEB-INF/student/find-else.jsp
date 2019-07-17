@@ -9,8 +9,8 @@
     <meta charset="UTF-8">
     <title>水电费管理系统</title>
     <%--<base href="<%=request.getContextPath()%>/">--%>
-    <link type="text/css" rel="stylesheet" href="../static/css/style.css"/>
-    <link type="text/css" rel="stylesheet" href="../static/css/public.css"/>
+    <link type="text/css" rel="stylesheet" href="../../../resources/static/css/style.css"/>
+    <link type="text/css" rel="stylesheet" href="../../../resources/static/css/public.css"/>
 </head>
 <body>
 <!--头部-->

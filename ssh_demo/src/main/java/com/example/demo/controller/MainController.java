@@ -37,7 +37,7 @@ public class MainController {
     @Resource
     private RoomMoneyMapper roomMoneyMapper;
 
-    @RequestMapping
+    @RequestMapping("hello")
     public String hello() {
         return "hello";
     }

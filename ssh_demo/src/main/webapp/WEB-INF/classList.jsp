@@ -9,9 +9,9 @@
     <meta charset="UTF-8">
     <title>水电费管理系统</title>
 <%--<base href="<%=request.getContextPath()%>/">--%>
-    <link type="text/css" rel="stylesheet" href="../static/css/style.css"/>
-    <link type="text/css" rel="stylesheet" href="../static/css/public.css"/>
-    <script type="text/javascript" src="../static/js/jquery-3.3.1.min.js"></script>
+    <link type="text/css" rel="stylesheet" href="../../resources/static/css/style.css"/>
+    <link type="text/css" rel="stylesheet" href="../../resources/static/css/public.css"/>
+    <script type="text/javascript" src="../../resources/static/js/jquery-3.3.1.min.js"></script>
     <script type="text/javascript">
         $(function () {
             $(".removeClass").click(function () {
@@ -106,8 +106,8 @@
                     <td>${b.teacher}</td>
                     <td><fmt:formatDate value="${b.openinghours}" pattern="yyyy-MM-dd"/></td>
                     <td>
-                        <a href="/toupdate?id=${b.id}"><img src="../static/img/xiugai.png" alt="修改" title="修改"/></a>
-                        <a href="javascript:void(0);" class="removeClass"><img src="../static/img/schu.png" alt="删除" title="删除"/></a>
+                        <a href="/toupdate?id=${b.id}"><img src="../../resources/static/img/xiugai.png" alt="修改" title="修改"/></a>
+                        <a href="javascript:void(0);" class="removeClass"><img src="../../resources/static/img/schu.png" alt="删除" title="删除"/></a>
                     </td>
                 </tr>
             </c:forEach>

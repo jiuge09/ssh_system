@@ -4,8 +4,8 @@
 <head lang="en">
     <meta charset="UTF-8">
     <title>水电费管理系统</title>
-    <link type="text/css" rel="stylesheet" href="../static/css/style.css"/>
-    <link type="text/css" rel="stylesheet" href="../static/css/public.css"/>
+    <link type="text/css" rel="stylesheet" href="../../../resources/static/css/style.css"/>
+    <link type="text/css" rel="stylesheet" href="../../../resources/static/css/public.css"/>
 </head>
 <body>
 <!--头部-->
@@ -46,7 +46,7 @@
         <div class="wFont">
 <%--            <h2>${loginedUser.userName}</h2>--%>
 <%--            <p>欢迎来到水电费管理系统!</p>--%>
-          <img class="wColck" src="../static/img/20190708222207.jpg" alt/>
+          <img class="wColck" src="../../../resources/static/img/20190708222207.jpg" alt/>
         </div>
     </div>
 </section>

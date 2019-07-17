@@ -9,9 +9,9 @@
     <meta charset="UTF-8">
     <title>水电费管理系统</title>
     <%--<base href="<%=request.getContextPath()%>/">--%>
-    <link type="text/css" rel="stylesheet" href="../static/css/style.css"/>
-    <link type="text/css" rel="stylesheet" href="../static/css/public.css"/>
-    <script type="text/javascript" src="../static/js/jquery-1.12.4.js"></script>
+    <link type="text/css" rel="stylesheet" href="../../../resources/static/css/style.css"/>
+    <link type="text/css" rel="stylesheet" href="../../../resources/static/css/public.css"/>
+    <script type="text/javascript" src="../../../resources/static/js/jquery-1.12.4.js"></script>
     <script type="text/javascript">
         $(function () {
             $(".removeClass").click(function () {

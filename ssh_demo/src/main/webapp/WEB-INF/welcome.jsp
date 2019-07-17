@@ -4,8 +4,8 @@
 <head lang="en">
     <meta charset="UTF-8">
     <title>水电费管理系统</title>
-    <link type="text/css" rel="stylesheet" href="../static/css/style.css"/>
-    <link type="text/css" rel="stylesheet" href="../static/css/public.css"/>
+    <link type="text/css" rel="stylesheet" href="../../resources/static/css/style.css"/>
+    <link type="text/css" rel="stylesheet" href="../../resources/static/css/public.css"/>
 </head>
 <body>
 <!--头部-->
@@ -42,7 +42,7 @@
         </nav>
     </div>
     <div class="right">
-        <img class="wColck" src="../static/img/clock.jpg" alt=""/>
+        <img class="wColck" src="../../resources/static/img/clock.jpg" alt=""/>
 <img src="img/20190708222207.jpg"/>
         <div class="wFont">
 <%--            <h2>${loginedUser.userName}</h2>--%>

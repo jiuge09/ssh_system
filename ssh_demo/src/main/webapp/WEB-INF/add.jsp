@@ -9,7 +9,7 @@
 <html>
 <head>
     <title>添加班级</title>
-    <script type="text/javascript" src="../static/js/jquery-1.12.4.js"></script>
+    <script type="text/javascript" src="../../resources/static/js/jquery-1.12.4.js"></script>
     <script type="text/javascript">
         $(function () {
             $("#name").blur(function () {

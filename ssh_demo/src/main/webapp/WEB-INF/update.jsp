@@ -9,7 +9,7 @@
 <html>
 <head>
     <title>Title</title>
-    <script type="text/javascript" src="../static/js/jquery-1.12.4.js"></script>
+    <script type="text/javascript" src="../../resources/static/js/jquery-1.12.4.js"></script>
     <script type="text/javascript">
         // $(function () {
         //     $("#sbm").click(function () {
